@@ -1,1 +1,1 @@
-A open code to exploti
+A open code to exploit
